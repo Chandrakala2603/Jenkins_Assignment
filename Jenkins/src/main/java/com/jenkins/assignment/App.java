@@ -1,9 +1,6 @@
 package com.jenkins.assignment;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
    
